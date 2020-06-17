@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.custom-div-gray {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: gray;
+}
+
+.text-white {
+  color: white;
+}
+
+.text-gray {
+  color: gainsboro;
+}
